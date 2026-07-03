@@ -1,1 +1,10 @@
 docs
+
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
