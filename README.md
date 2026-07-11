@@ -5,7 +5,7 @@ HydraHub is an enterprise inventory management system designed to provide centra
 
 ## Overview
 
-The goal of HydraHub is to serve as a scalable inventory platform with multiple front facing application capable of supporting multiple inventory types, including:
+The goal of HydraHub is to serve as a scalable inventory platform with multiple front facing applications capable of supporting multiple inventory types, including:
 
 * Household Goods
 * Vegetables and Produce
