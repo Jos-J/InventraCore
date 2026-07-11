@@ -1,11 +1,11 @@
-# InventraCore
+# HydraHub
 
-InventraCore is an enterprise inventory management system designed to provide centralized tracking and management of products, categories, stock levels, suppliers, and inventory transactions.
+HydraHub is an enterprise inventory management system designed to provide centralized tracking and management of products, categories, stock levels, suppliers, and inventory transactions.
 
 
 ## Overview
 
-The goal of InventraCore is to serve as a scalable inventory platform capable of supporting multiple inventory types, including:
+The goal of HydraHub is to serve as a scalable inventory platform with multiple frontface application capable of supporting multiple inventory types, including:
 
 * Household Goods
 * Vegetables and Produce
@@ -70,7 +70,7 @@ This project is being developed as a portfolio-quality enterprise application fo
 ## Project Structure
 
 ```text
-InventraCore
+HydraHub
 ├── frontend
 ├── backend
 ├── database
@@ -98,7 +98,7 @@ InventraCore
 
 ## Project Goals
 
-InventraCore is intended to:
+HydraHub is intended to:
 
 * Demonstrate enterprise application design
 * Showcase database modeling and normalization
